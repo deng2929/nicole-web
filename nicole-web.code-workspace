@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pictures"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nicole-web",
+		"editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, Didone,",
+		"editor.fontLigatures": false,
+		"remote.SSH.remoteServerListenOnSocket": true,
+		"liveServer.settings.useWebExt": true,
+		"git.allowForcePush": true,
+		"git.postCommitCommand": "push",
+		"extensions.webWorker": true
+	}
+}
